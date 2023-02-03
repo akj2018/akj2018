@@ -12,11 +12,11 @@
 <p  align="left"><img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
 
 ## Hello there 👋
-A 4th-year undergrad, currently pursuing B.Tech in Computer Science, from Manipal University Jaipur. Passionately, a tech-savvy person with an ambitious demeanor, I embrace a learner attitude with a strong emphasis on a growth mindset. Always indulging in experiential learning, with a knack for trying out new technologies and networking with people of diverse cultures and ethnicities.
+A Fall 22 Computer Science grad at USC Viterbi School of Enginnering. Passionately, a tech-savvy person with an ambitious demeanor, I embrace a learner attitude with a strong emphasis on a growth mindset. Always indulging in experiential learning, with a knack for trying out new technologies and networking with people of diverse cultures and ethnicities.
 
 ### Summary
 - 🔭 I’m constantly trying to improve my concepts of Data Structures.
-- 🌱 I'm currently learning React.
+- 🌱 I'm currently learning SDLC models.
 - 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
 - 💬 Ask me anything. I'll be glad to help. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshay-jain-2022/) 
