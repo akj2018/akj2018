@@ -9,16 +9,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/akj2018)
 [![Views](https://komarev.com/ghpvc/?username=akj2018&color=blue&style=flat-square&label=PROFILE+VIEWS)](#)
 
----
-
 ## 👨‍💻 About Me
 I am a Data-driven Software Engineer with a Master’s in Computer Science from the **University of Southern California** (GPA 3.7/4.0). I specialize in building high-performance data pipelines and real-time analytics systems. My unique edge is the ability to not just analyze data, but to architect scalable systems that handle it.
 
 **🎯 Current Focus:** 
 - Mastering Low-Level Design (LLD) for data systems
 - Real-time Stream Analytics (Kafka/Spark)
-
----
 
 ## 🛠 Tech Stack & Tools
 
@@ -36,8 +32,6 @@ I am a Data-driven Software Engineer with a Master’s in Computer Science from 
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
----
-
 ## 🌟 Featured Projects
 
 | Project | Project Details | Tech Stack |
@@ -46,18 +40,16 @@ I am a Data-driven Software Engineer with a Master’s in Computer Science from 
 | **[Multi-AI Agent System](https://github.com/akj2018)** |Deployed a multi-agent system using CrewAI and LangChain to automate financial reporting, slashing processing time from hours to minutes| `crewAI` `Python` `LangChain` |
 | **[Pandas Open Source](https://github.com/pandas-dev/pandas)** |Fixed core bug in `Series.isin()` affecting large-scale data processing and improved documentation (45k+ stars). | `Python` `pytest` `CI/CD` |
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=akj2018&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj2018&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
-
-## 🎓 Leadership & Achievements
+## 🏆 Leadership & Achievements
 - **3rd Place Winner** at the Alteryx Datathon (Irvine, 2023).
 - **Open Source Contributor** to **Pandas** (Fixed bugs in `Series.isin()` and improved documentation).
 - **Section Leader @ Stanford Code in Place 2025:** Mentoring students in Python (Top 900 globally).
 - **CS Mentor @ Microsoft TEALS:** Taught OOPS and Python to 30+ high school students.
+
+
+## 📈 GitHub Stats
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=akj2018&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj2018&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+
