@@ -1,13 +1,6 @@
-# Hi, I'm Akshay Jain 👋 <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="35">
+# Hi, I'm Akshay Jain <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="35">
 
-### 🎓 MS in Computer Science @ USC | Data Scientist & Analytics Engineer 
 **"Bridging the gap between scalable engineering and actionable data insights."**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-jain-2022/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akj2018)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainakshay1783@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/akj2018)
-[![Views](https://komarev.com/ghpvc/?username=akj2018&color=blue&style=flat-square&label=PROFILE+VIEWS)](#)
 
 ## 👨‍💻 About Me
 I am a Data-driven Software Engineer with a Master’s in Computer Science from the **University of Southern California** (GPA 3.7/4.0). I specialize in building high-performance data pipelines and real-time analytics systems. My unique edge is the ability to not just analyze data, but to architect scalable systems that handle it.
@@ -51,5 +44,11 @@ I am a Data-driven Software Engineer with a Master’s in Computer Science from 
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=akj2018&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj2018&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-jain-2022/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akj2018)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainakshay1783@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/akj2018)
+[![Views](https://komarev.com/ghpvc/?username=akj2018&color=blue&style=flat-square&label=PROFILE+VIEWS)](#)
 
 
