@@ -1,28 +1,63 @@
-# I am a Designer, Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
+# Hi, I'm Akshay Jain 👋 <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="35">
 
-<a href="https://www.linkedin.com/in/akshay-jain-2022/">
-  <img align="left" alt="Akshay's Linkedin" width="22px" style="color=blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### 🎓 MS in Computer Science @ USC | Data Scientist & Analytics Engineer 
+**"Bridging the gap between scalable engineering and actionable data insights."**
 
-<a href="https://github.com/akj2018">
-  <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-jain-2022/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akj2018)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainakshay1783@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/akj2018)
+[![Views](https://komarev.com/ghpvc/?username=akj2018&color=blue&style=flat-square&label=PROFILE+VIEWS)](#)
 
+---
 
-<p  align="left"><img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
+## 👨‍💻 About Me
+I am a Data-driven Software Engineer with a Master’s in Computer Science from the **University of Southern California** (GPA 3.7/4.0). I specialize in building high-performance data pipelines and real-time analytics systems. My unique edge is the ability to not just analyze data, but to architect scalable systems that handle it.
 
-## Hello there 👋
-A Fall 22 Computer Science grad at USC Viterbi School of Enginnering. Passionately, a tech-savvy person with an ambitious demeanor, I embrace a learner attitude with a strong emphasis on a growth mindset. Always indulging in experiential learning, with a knack for trying out new technologies and networking with people of diverse cultures and ethnicities.
+**🎯 Current Focus:** 
+- Mastering Low-Level Design (LLD) for data systems
+- Real-time Stream Analytics (Kafka/Spark)
 
-### Summary
-- 🔭 I’m constantly trying to improve my concepts of Data Structures.
-- 🌱 I'm currently learning SDLC models.
-- 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
-- 💬 Ask me anything. I'll be glad to help. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshay-jain-2022/) 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akj2018&label=Profile Views&color=blue&style=plastic" alt="akj2018" /> </p>
+## 🛠 Tech Stack & Tools
 
-<a href="https://github.com/akj2018">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akj2018&show_icons=true&theme=dracula&line_height=27" alt="Akshay's github stats"/>
-</a>
+### 📊 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ Engineering & Big Data
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Project Details | Tech Stack |
+| :--- | :--- | :--- |
+| **[Startup Funding Analysis](https://github.com/akj2018)** |Architected a Playwright-based ELT pipeline to centralize fragmented funding data into BigQuery, driving real-time investment insights via Power BI.| `Python` `BigQuery` `PowerBI` `Playwright` |
+| **[Multi-AI Agent System](https://github.com/akj2018)** |Deployed a multi-agent system using CrewAI and LangChain to automate financial reporting, slashing processing time from hours to minutes| `crewAI` `Python` `LangChain` |
+| **[Pandas Open Source](https://github.com/pandas-dev/pandas)** |Fixed core bug in `Series.isin()` affecting large-scale data processing and improved documentation (45k+ stars). | `Python` `pytest` `CI/CD` |
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=akj2018&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj2018&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+---
+
+## 🎓 Leadership & Achievements
+- **3rd Place Winner** at the Alteryx Datathon (Irvine, 2023).
+- **Open Source Contributor** to **Pandas** (Fixed bugs in `Series.isin()` and improved documentation).
+- **Section Leader @ Stanford Code in Place 2025:** Mentoring students in Python (Top 900 globally).
+- **CS Mentor @ Microsoft TEALS:** Taught OOPS and Python to 30+ high school students.
