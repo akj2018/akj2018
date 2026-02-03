@@ -29,8 +29,8 @@ I am a Data-driven Software Engineer with a Master’s in Computer Science from 
 
 | Project | Project Details | Tech Stack |
 | :--- | :--- | :--- |
-| **[Startup Funding Analysis](https://github.com/akj2018)** |Architected a Playwright-based ELT pipeline to centralize fragmented funding data into BigQuery, driving real-time investment insights via Power BI.| `Python` `BigQuery` `PowerBI` `Playwright` |
-| **[Multi-AI Agent System](https://github.com/akj2018)** |Deployed a multi-agent system using CrewAI and LangChain to automate financial reporting, slashing processing time from hours to minutes| `crewAI` `Python` `LangChain` |
+| **[Startup Funding Analysis](https://github.com/akj2018/Startup-Funding-Analysis-ELT-Pipeline-using-BigQuery-and-PowerBI)** |Architected a Playwright-based ELT pipeline to centralize fragmented funding data into BigQuery, driving real-time investment insights via Power BI.| `Python` `BigQuery` `PowerBI` `Playwright` |
+| **[Multi-AI Agent System](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI)** |Deployed a multi-agent system using CrewAI and LangChain to automate financial reporting, slashing processing time from hours to minutes| `crewAI` `Python` `LangChain` |
 | **[Pandas Open Source](https://github.com/pandas-dev/pandas)** |Fixed core bug in `Series.isin()` affecting large-scale data processing and improved documentation (45k+ stars). | `Python` `pytest` `CI/CD` |
 
 ## 🏆 Leadership & Achievements
