@@ -3,7 +3,7 @@
 **"Bridging the gap between scalable engineering and actionable data insights."**
 
 ## 👨‍💻 About Me
-I am a Data-driven Software Engineer with a Master’s in Computer Science from the **University of Southern California** (GPA 3.7/4.0). I specialize in building high-performance data pipelines and real-time analytics systems. My unique edge is the ability to not just analyze data, but to architect scalable systems that handle it.
+I am a Data-driven Software Engineer specialized in building high-performance data pipelines and real-time analytics systems. My unique edge is the ability to not just analyze data, but to architect scalable systems that handle it.
 
 **🎯 Current Focus:** 
 - Mastering Low-Level Design (LLD) for data systems
